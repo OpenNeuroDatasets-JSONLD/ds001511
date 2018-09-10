@@ -1,8 +1,1 @@
-{
-    "Name": "Schematic narrative perception and recall (scrambled)",
-    "BIDSVersion": "1.1.0",
-    "License": "CC0",
-    "Authors": [
-        "C. Baldassano, U. Hasson, K. Norman."
-    ]
-}
+{"Name":"Schematic narrative perception and recall (scrambled)","License":"CC0","Authors":["C. Baldassano, U. Hasson, K. Norman."],"Acknowledgements":"","HowToAcknowledge":"","Funding":"","ReferencesAndLinks":[],"DatasetDOI":"10.18112/openneuro.ds001511.v1.0.1","BIDSVersion":"1.1.0"}
